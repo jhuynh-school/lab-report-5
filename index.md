@@ -30,4 +30,5 @@ Terminal after the fix:
 ![alt text](5.png)
 
 # Part 2 - Reflection
+
 My lab experience in the second half was definitely better than the first half because most of the content was more applicable. The most interesting thing I learned was definitely bash scripts because it makes testing a lot easier and I also get a glimpse on how gradescope works. It is interesting because we can setup many commands all in a script to be easily run, I can see how this skill is scalable to a much larger script. One of the things I am still curious on how useful it can be is VIM, we did not touch it that much and I do not see the use in it as of yet. Compared to commands we learned such as grep and bash scripts, VIM is not seen as a useful tool to me. I am sure many people in the inductry use so I want to learn more of its use cases.
