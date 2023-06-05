@@ -24,4 +24,9 @@ Before the fix:
 After the fix:
 ![alt text](after.png)
 
+Terminal before the fix:
+![alt text](error.png)
+Terminal after the fix:
+![alt text](5.png)
+
 # Part 2 - Reflection
