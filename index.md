@@ -9,7 +9,9 @@
 Hi John! After reading your post about being unable to see github repo I suggest looking over the bash script once more because the repo is public and passed the test when run on my grade.sh. I suggest rewatching the lectures from week 6 to get a refresh on how to write bash scripts and see how the professor does them. He may also give insight on how such an error could occur.
 
 3. Fixed using TA response
+![alt text](5.png)
 
 4. Extra Information
+
 
 # Part 2 - Reflection
