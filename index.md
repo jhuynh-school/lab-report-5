@@ -12,7 +12,9 @@ Hi John! After reading your post about being unable to see github repo I suggest
 ![alt text](5.png)
 
 4. Extra Information
+
 Extra Context:
+
 ![alt text](file.png)
 ![alt text](list.png)
 ![alt text](test.png)
