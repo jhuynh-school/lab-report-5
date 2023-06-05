@@ -1,5 +1,9 @@
 # Part 1 - Debugging Scenario
 1. The original post from a student with a screenshot showing a symptom and a description of a guess at the bug/some sense of what the failure-inducing input is.
+![alt text](1.png)
+![alt text](2.png)
+![alt text](3.png)
+![alt text](4.png)
 
 2. A response from a TA asking a leading question or suggesting a command to try.
 
